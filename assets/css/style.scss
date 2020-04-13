@@ -6,3 +6,41 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+details {
+    border-radius: 4px;
+    padding: .5em .5em 0;
+    background-color:#FFC;
+    background-blend-mode: lighten;;
+
+}
+
+summary {
+    font-weight: bold;
+    margin: -.5em -.5em 0;
+    padding: .5em;
+    white-space: nowrap;
+    background-color:white;
+
+}
+
+details[open] {
+    padding: .5em;
+}
+
+details[open] summary {
+    border-bottom: 1px solid #aaa;
+    margin-bottom: .5em;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+
+h4  {
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+blockquote {
+    letter-spacing: 0px;
+  }
+  
