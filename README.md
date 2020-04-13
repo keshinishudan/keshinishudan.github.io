@@ -1,1 +1,0 @@
-# keshinishudan.github.io
