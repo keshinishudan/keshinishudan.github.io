@@ -1,12 +1,11 @@
 ---
 layout: kural
-title:  "கடவுள் வாழ்த்து"
-date:   2020-04-12 07:37:25 +0530
+title:  "வான் சிறப்பு"
+date:   2020-04-14 21:03:25 +0530
 categories: [arathupaal, paayiraviyal]
-permalink : /1/kadavul-vaazlthu
-athigaram : "1"
-athigaram-en : Kadavul Vaazlthu
-tags : kadavul, vaazlthu, arathupaal, paayiraviyal,
+permalink : /2/vaan-sirappu
+athigaram : "2"
+athigaram-en : Vaan Sirappu
 ---
 
 ##  The Praise of God <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
@@ -46,7 +45,7 @@ tags : kadavul, vaazlthu, arathupaal, paayiraviyal,
 <summary id="transliteration"> transliteration</summary>
 
 {% for kl in site.data.kural %}
-{% if kl.athigaram == kl.athigaram %} 
+{% if page.athigaram == kl.athigaram %} 
 
 <p>{{kl.number}} {{kl.transliteration | newline_to_br}}</p>
 
