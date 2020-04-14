@@ -3,12 +3,13 @@ layout: kural
 title:  "வான் சிறப்பு"
 date:   2020-04-14 21:03:25 +0530
 categories: [arathupaal, paayiraviyal]
-permalink : /2/vaan-sirappu
+permalink : /2/vaan-sirappu/
 athigaram : "2"
 athigaram-en : Vaan Sirappu
+title-en: The Excellence of Rain
 ---
 
-##  The Praise of God <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
+## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
 
 {% for kl in site.data.kural %}
 {% if kl.athigaram == page.athigaram %}

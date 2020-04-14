@@ -6,9 +6,10 @@ categories: [arathupaal, paayiraviyal]
 permalink : /4/aran-valiyuruthal/
 athigaram : "4"
 athigaram-en : Aran Valiyuruthal
+title-en : Assertion of the Strength of Virtue
 ---
 
-##  The Praise of God <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
+## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
 
 {% for kl in site.data.kural %}
 {% if kl.athigaram == page.athigaram %}
