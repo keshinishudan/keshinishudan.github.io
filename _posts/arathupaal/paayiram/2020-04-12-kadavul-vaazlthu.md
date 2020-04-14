@@ -8,7 +8,7 @@ athigaram : "1"
 athigaram-en : Kadavul Vaazlthu
 ---
 
-##  The Praise of God
+##  The Praise of God <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
 
 {% for kl in site.data.kural %}
 {% if kl.athigaram == page.athigaram %}
@@ -37,6 +37,19 @@ athigaram-en : Kadavul Vaazlthu
 </details>
 {% endif %}
 
+{% endif %}
+{% endfor %}
+
+<br>
+<details>
+<summary id="transliteration"> transliteration</summary>
+
+{% for kl in site.data.kural %}
+{% if kl.athigaram == kl.athigaram %} 
+
+<p>{{kl.number}} {{kl.transliteration | newline_to_br}}</p>
 
 {% endif %}
 {% endfor %}
+
+</details>
