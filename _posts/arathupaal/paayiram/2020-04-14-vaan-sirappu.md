@@ -7,6 +7,8 @@ permalink : /2/vaan-sirappu/
 athigaram : "2"
 athigaram-en : Vaan Sirappu
 title-en: The Excellence of Rain
+redirect_from:
+  - /2/
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>

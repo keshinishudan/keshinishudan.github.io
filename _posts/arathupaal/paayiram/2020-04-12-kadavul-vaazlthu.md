@@ -8,6 +8,8 @@ athigaram : "1"
 athigaram-en : Kadavul Vaazlthu
 title-en : The Praise of God
 tags : kadavul, vaazlthu, arathupaal, paayiraviyal
+redirect_from:
+  - /1/
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>

@@ -7,6 +7,8 @@ permalink : /4/aran-valiyuruthal/
 athigaram : "4"
 athigaram-en : Aran Valiyuruthal
 title-en : Assertion of the Strength of Virtue
+redirect_from:
+  - /4/
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>

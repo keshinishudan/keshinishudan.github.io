@@ -8,6 +8,8 @@ athigaram : "3"
 athigaram-en : Neethar Perumai
 tags : neethar,perumai,arathupaal,paayiraviyal
 title-en: The Greatness of Ascetics
+redirect_from:
+  - /3/
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
