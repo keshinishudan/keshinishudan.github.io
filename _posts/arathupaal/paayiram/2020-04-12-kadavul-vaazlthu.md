@@ -3,11 +3,11 @@ layout: kural
 title:  "கடவுள் வாழ்த்து"
 date:   2020-04-12 07:37:25 +0530
 categories: [arathupaal, paayiraviyal]
-permalink : /1/kadavul-vaazlthu/
-athigaram : "1"
-athigaram-en : Kadavul Vaazlthu
-title-en : The Praise of God
-tags : kadavul, vaazlthu, arathupaal, paayiraviyal
+permalink: /1/kadavul-vaazlthu/
+athigaram: "1"
+athigaram-en: Kadavul Vaazlthu
+title-en: The Praise of God
+tags: kadavul, vaazlthu, arathupaal, paayiraviyal
 redirect_from:
   - /1/
 ---

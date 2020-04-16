@@ -3,10 +3,10 @@ layout: kural
 title:  "அறன்வலியுறுத்தல்"
 date:   2020-04-14 21:14:25 +0530
 categories: [arathupaal, paayiraviyal]
-permalink : /4/aran-valiyuruthal/
-athigaram : "4"
-athigaram-en : Aran Valiyuruthal
-title-en : Assertion of the Strength of Virtue
+permalink: /4/aran-valiyuruthal/
+athigaram: "4"
+athigaram-en: Aran Valiyuruthal
+title-en: Assertion of the Strength of Virtue
 redirect_from:
   - /4/
 ---

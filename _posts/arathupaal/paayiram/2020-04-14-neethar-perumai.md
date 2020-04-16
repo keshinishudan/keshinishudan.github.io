@@ -3,10 +3,10 @@ layout: kural
 title:  "நீத்தார் பெருமை"
 date:   2020-04-14 21:14:25 +0530
 categories: [arathupaal, paayiraviyal]
-permalink : /3/neethaar-perumai/
-athigaram : "3"
-athigaram-en : Neethar Perumai
-tags : neethar,perumai,arathupaal,paayiraviyal
+permalink: /3/neethaar-perumai/
+athigaram: "3"
+athigaram-en: Neethar Perumai
+tags: neethar,perumai,arathupaal,paayiraviyal
 title-en: The Greatness of Ascetics
 redirect_from:
   - /3/
