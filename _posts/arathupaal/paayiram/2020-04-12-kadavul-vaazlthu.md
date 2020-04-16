@@ -49,7 +49,7 @@ redirect_from:
 <summary id="transliteration"> transliteration</summary>
 
 {% for kl in site.data.kural %}
-{% if kl.athigaram == kl.athigaram %} 
+{% if page.athigaram == kl.athigaram %} 
 
 <p>{{kl.number}} {{kl.transliteration | newline_to_br}}</p>
 
