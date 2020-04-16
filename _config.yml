@@ -9,6 +9,10 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+
+url: "https://thirukkural.io"
+
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
@@ -30,7 +34,7 @@ minima:
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
     # googleplus: +jekyll
-    # microdotblog: jekyll
+    # microdotblog: jekyll  - jekyll-sitemap
     # keybase: jekyll
 
     # Mastodon instances
@@ -59,3 +63,4 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-redirect-from
+ - jekyll-sitemap
