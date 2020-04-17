@@ -48,12 +48,12 @@ redirect_from:
 <details>
 <summary id="transliteration"> transliteration</summary>
 
-{% for kl in site.data.kural %}
-{% if page.athigaram == kl.athigaram %} 
+{%- for kl in site.data.kural -%}
+{%- if page.athigaram == kl.athigaram -%} 
 
 <p>{{kl.number}} {{kl.transliteration | newline_to_br}}</p>
 
-{% endif %}
-{% endfor %}
+{%- endif -%}
+{%- endfor -%}
 
 </details>
