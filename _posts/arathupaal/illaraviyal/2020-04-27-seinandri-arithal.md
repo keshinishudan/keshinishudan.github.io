@@ -1,14 +1,14 @@
 ---
 layout: kural
-title:  "விருந்தோம்பல்"
-date:   2020-04-23 07:40:35 +0530
+title:  "செய்ந்நன்றி அறிதல்"
+date:   2020-04-27 08:40:35 +0530
 categories: [arathupaal, illaraviyal]
-permalink: /9/virundhombal/
-athigaram: "9"
-athigaram-en: Virundhombal
-title-en: Cherishing Guests
+permalink: /11/seinandri-arithal/
+athigaram: "11"
+athigaram-en: Seinandri Arithal
+title-en: The Knowledge of Benefits Conferred - Gratitude
 redirect_from:
-  - /9/
+  - /11/
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>

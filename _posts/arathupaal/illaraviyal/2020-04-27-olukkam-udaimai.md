@@ -1,14 +1,14 @@
 ---
 layout: kural
-title:  "விருந்தோம்பல்"
-date:   2020-04-23 07:40:35 +0530
+title:  "ஒழுக்கமுடைமை"
+date:   2020-04-27 12:50:35 +0530
 categories: [arathupaal, illaraviyal]
-permalink: /9/virundhombal/
-athigaram: "9"
-athigaram-en: Virundhombal
-title-en: Cherishing Guests
+permalink: /14/ollukam-udaimai/
+athigaram: "14"
+athigaram-en: Olukkam Udaimai
+title-en: The Possession of Decorum
 redirect_from:
-  - /9/
+  - /14/
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>

@@ -1,14 +1,14 @@
 ---
 layout: kural
-title:  "விருந்தோம்பல்"
-date:   2020-04-23 07:40:35 +0530
+title:  "நடுவு நிலைமை"
+date:   2020-04-27 10:40:35 +0530
 categories: [arathupaal, illaraviyal]
-permalink: /9/virundhombal/
-athigaram: "9"
-athigaram-en: Virundhombal
-title-en: Cherishing Guests
+permalink: /12/naduvu-nilami/
+athigaram: "12"
+athigaram-en: Naduvu Nilamai
+title-en: Impartiality
 redirect_from:
-  - /9/
+  - /12/
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>

@@ -1,7 +1,7 @@
 ---
 layout: kural
 title:  "இனியவைகூறல்"
-date:   2020-04-22 08:40:35 +0530
+date:   2020-04-23 08:40:35 +0530
 categories: [arathupaal, illaraviyal]
 permalink: /10/iniyavai-kooral/
 athigaram: "10"
