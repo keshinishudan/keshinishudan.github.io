@@ -9,6 +9,7 @@ athigaram-en: Aran Valiyuruthal
 title-en: Assertion of the Strength of Virtue
 redirect_from:
   - /4/
+description: Read Aran Valiyuruthal from arathupaal, paayiraviyal titled Assertion of the Strength of Virtue அறன்வலியுறுத்தல்
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>

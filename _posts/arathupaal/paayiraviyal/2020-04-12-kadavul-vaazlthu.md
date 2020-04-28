@@ -10,6 +10,7 @@ title-en: The Praise of God
 tags: kadavul, vaazlthu, arathupaal, paayiraviyal
 redirect_from:
   - /1/
+description: Read Kadavul Vaazlthu from arathupaal, paayiraviyal titled The Praise of God கடவுள் வாழ்த்து
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>

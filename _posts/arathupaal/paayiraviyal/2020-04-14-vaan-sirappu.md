@@ -9,6 +9,7 @@ athigaram-en: Vaan Sirappu
 title-en: The Excellence of Rain
 redirect_from:
   - /2/
+description: Read Vaan Sirappu from arathupaal, paayiraviyal titled The Excellence of Rain வான் சிறப்பு
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>

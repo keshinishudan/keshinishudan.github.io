@@ -10,6 +10,7 @@ tags: neethar,perumai,arathupaal,paayiraviyal
 title-en: The Greatness of Ascetics
 redirect_from:
   - /3/
+description: Read Neethar Perumai from arathupaal, paayiraviyal titled The Greatness of Ascetics நீத்தார் பெருமை
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
