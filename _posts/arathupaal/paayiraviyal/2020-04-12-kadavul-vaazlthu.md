@@ -46,7 +46,7 @@ description: Read Kadavul Vaazlthu from arathupaal, paayiraviyal titled The Prai
 {% endfor %}
 
 <br>
-<details>
+<details class = "trans">
 <summary id="transliteration"> transliteration</summary>
 
 {%- for kl in site.data.kural -%}

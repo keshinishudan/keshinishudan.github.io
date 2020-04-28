@@ -46,7 +46,7 @@ description: Read Neethar Perumai from arathupaal, paayiraviyal titled The Great
 {% endfor %}
 
 <br>
-<details>
+<details class = "trans">
 <summary id="transliteration"> transliteration</summary>
 
 {%- for kl in site.data.kural -%}

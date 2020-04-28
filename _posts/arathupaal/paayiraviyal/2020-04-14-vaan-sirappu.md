@@ -45,7 +45,7 @@ description: Read Vaan Sirappu from arathupaal, paayiraviyal titled The Excellen
 {% endfor %}
 
 <br>
-<details>
+<details class = "trans">
 <summary id="transliteration"> transliteration</summary>
 
 {%- for kl in site.data.kural -%}

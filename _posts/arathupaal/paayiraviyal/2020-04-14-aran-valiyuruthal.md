@@ -45,7 +45,7 @@ description: Read Aran Valiyuruthal from arathupaal, paayiraviyal titled Asserti
 {% endfor %}
 
 <br>
-<details>
+<details class = "trans">
 <summary id="transliteration"> transliteration</summary>
 
 {%- for kl in site.data.kural -%}
