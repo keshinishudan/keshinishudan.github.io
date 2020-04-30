@@ -4,7 +4,7 @@ title:  "இல்வாழ்க்கை"
 date:   2020-04-20 07:37:35 +0530
 categories: [arathupaal, illaraviyal]
 permalink: /5/ilvaalkkai/
-athigaram: "5"
+athigaram: "05"
 athigaram-en: Ilvaalkkai
 title-en: Domestic Life
 redirect_from:
