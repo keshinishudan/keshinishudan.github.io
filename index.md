@@ -12,7 +12,7 @@ layout: thome
 
 |**பாயிரவியல் - Introduction** |
 |---------------|
-{% assign work_items = site.categories.paayiraviyal | sort: 'athigaram' | reverse -%}
+{% assign work_items = site.categories.paayiraviyal | sort: 'athigaram' -%}
 {%- for post in work_items -%}
 |[**{{ post.athigaram}} &nbsp; {{ post.title }}**]({{post.url}})|
 |[*{{post.title-en}}*]({{post.url}})|
@@ -20,7 +20,7 @@ layout: thome
 
 |**இல்லறவியல் - Domestic Virtue**|
 |---------------|
-{% assign work_items = site.categories.illaraviyal | sort: 'athigaram' | reverse -%}
+{% assign work_items = site.categories.illaraviyal | sort: 'athigaram' -%}
 {%- for post in work_items -%}
 |[**{{ post.athigaram}} &nbsp; {{ post.title }}**]({{post.url}})|
 |[*{{post.title-en}}*]({{post.url}})|
