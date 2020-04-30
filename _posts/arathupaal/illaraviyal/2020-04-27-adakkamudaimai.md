@@ -4,7 +4,7 @@ title:  "அடக்கமுடைமை"
 date:   2020-04-27 12:40:35 +0530
 categories: [arathupaal, illaraviyal]
 permalink: /13/adakkamudaimai/
-athigaram: 13
+athigaram: "13"
 athigaram-en: Adakkamudaimai
 title-en: The Possession of Self-restraint
 redirect_from:
