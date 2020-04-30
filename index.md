@@ -20,7 +20,7 @@ layout: thome
 
 |**இல்லறவியல் - Domestic Virtue**|
 |---------------|
-{% assign work_items = site.categories.illaraviyal | sort: 'athigaram'  | plus: 0 -%}
+{% assign work_items = site.categories.illaraviyal | sort: 'athigaram' -%}
 {%- for post in work_items -%}
 |[**{{ post.athigaram}} &nbsp; {{ post.title }}**]({{post.url}})|
 |[*{{post.title-en}}*]({{post.url}})|
