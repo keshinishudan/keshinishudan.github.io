@@ -1,16 +1,16 @@
 ---
 layout: kural
-title:  "வாழ்க்கைத் துணைநலம்"
-date:   2020-04-20 14:41:35 +0530
+title:  "பொறையுடைமை"
+date:   2020-04-28 12:56:31 +0530
 categories: [arathupaal, illaraviyal]
-permalink: /6/vaalkkaith-thunainalam/
-athigaram: "6"
-absno: "006"
-athigaram-en: vaalkkaith Thunainalam
-title-en: The Goodness of the Help to Domestic Life
+permalink: /16/poraiyudaimai/
+athigaram: "16"
+absno: "016"
+athigaram-en: Poraiyudaimai
+title-en: The Possession of Patience, Forbearance
 redirect_from:
-  - /6/
-description: Read vaalkkaith Thunainalam from arathupaal, illaraviyal titled The Goodness of the Help to Domestic Life வாழ்க்கைத் துணைநலம்
+  - /16/
+description: Read Poraiyudaimai from arathupaal, illaraviyal titled The Possession of Patience, Forbearance பொறையுடைமை
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
