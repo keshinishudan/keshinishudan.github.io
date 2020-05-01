@@ -1,7 +1,7 @@
 ---
 layout: kural
 title:  "அறன்வலியுறுத்தல்"
-date:   2020-04-14 21:14:25 +0530
+date:   2020-04-14 22:14:25 +0530
 categories: [arathupaal, paayiraviyal]
 permalink: /4/aran-valiyuruthal/
 athigaram: "4"

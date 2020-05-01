@@ -3,13 +3,13 @@ layout: kural
 title:  "புதல்வரைப் பெறுதல்"
 date:   2020-04-22 07:30:35 +0530
 categories: [arathupaal, illaraviyal]
-permalink: /6/puthalvaraip-peruthal/
-athigaram: "6"
-absno: "006"
+permalink: /7/puthalvaraip-peruthal/
+athigaram: "7"
+absno: "007"
 athigaram-en: Puthalvaraip Peruthal
 title-en: The Obtaining of Sons
 redirect_from:
-  - /6/
+  - /7/
 description: Read Puthalvaraip Peruthal from arathupaal, illaraviyal titled The Obtaining of Sons புதல்வரைப் பெறுதல்
 ---
 

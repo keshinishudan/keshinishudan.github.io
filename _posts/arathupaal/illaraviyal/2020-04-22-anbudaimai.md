@@ -3,13 +3,13 @@ layout: kural
 title:  "அன்புடைமை"
 date:   2020-04-22 07:33:35 +0530
 categories: [arathupaal, illaraviyal]
-permalink: /7/anbudaimai/
-athigaram: "7"
-absno: "007"
+permalink: /8/anbudaimai/
+athigaram: "8"
+absno: "008"
 athigaram-en: Anbudaimai
 title-en:  The Possession of Love
 redirect_from:
-  - /7/
+  - /8/
 description: Read Anbudaimai from arathupaal, illaraviyal titled The Possession of Love அன்புடைமை
 ---
 
