@@ -5,6 +5,7 @@ date:   2020-04-14 21:03:25 +0530
 categories: [arathupaal, paayiraviyal]
 permalink: /2/vaan-sirappu/
 athigaram: "2"
+absno: "002"
 athigaram-en: Vaan Sirappu
 title-en: The Excellence of Rain
 redirect_from:

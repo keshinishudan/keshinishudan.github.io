@@ -5,10 +5,12 @@ date:   2020-04-27 08:40:35 +0530
 categories: [arathupaal, illaraviyal]
 permalink: /11/seinandri-arithal/
 athigaram: "11"
+absno: "011"
 athigaram-en: Seinandri Arithal
 title-en: The Knowledge of Benefits Conferred - Gratitude
 redirect_from:
   - /11/
+description: Read Seinandri Arithal from arathupaal, illaraviyal titled The Knowledge of Benefits Conferred - Gratitude செய்ந்நன்றி அறிதல்
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
@@ -44,7 +46,7 @@ redirect_from:
 {% endfor %}
 
 <br>
-<details>
+<details class = "trans">
 <summary id="transliteration"> transliteration</summary>
 
 {%- for kl in site.data.kural -%}

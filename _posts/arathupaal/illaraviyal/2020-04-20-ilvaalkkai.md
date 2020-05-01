@@ -4,12 +4,13 @@ title:  "இல்வாழ்க்கை"
 date:   2020-04-20 07:37:35 +0530
 categories: [arathupaal, illaraviyal]
 permalink: /5/ilvaalkkai/
-athigaram: "05"
+athigaram: "5"
+absno: "005"
 athigaram-en: Ilvaalkkai
 title-en: Domestic Life
 redirect_from:
   - /5/
-  - /5/45
+description: Read Ilvaalkkai from arathupaal, illaraviyal titled Domestic Life இல்வாழ்க்கை
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
@@ -45,7 +46,7 @@ redirect_from:
 {% endfor %}
 
 <br>
-<details>
+<details class = "trans">
 <summary id="transliteration"> transliteration</summary>
 
 {%- for kl in site.data.kural -%}

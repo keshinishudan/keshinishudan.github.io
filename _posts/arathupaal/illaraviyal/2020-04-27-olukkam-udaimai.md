@@ -5,10 +5,12 @@ date:   2020-04-27 12:50:35 +0530
 categories: [arathupaal, illaraviyal]
 permalink: /14/ollukam-udaimai/
 athigaram: "14"
+absno: "014"
 athigaram-en: Olukkam Udaimai
 title-en: The Possession of Decorum
 redirect_from:
   - /14/
+description: Read Olukkam Udaimai from arathupaal, illaraviyal titled The Possession of Decorum ஒழுக்கமுடைமை
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
@@ -44,7 +46,7 @@ redirect_from:
 {% endfor %}
 
 <br>
-<details>
+<details class = "trans">
 <summary id="transliteration"> transliteration</summary>
 
 {%- for kl in site.data.kural -%}

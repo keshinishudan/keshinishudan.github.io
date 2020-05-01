@@ -5,10 +5,12 @@ date:   2020-04-23 07:40:35 +0530
 categories: [arathupaal, illaraviyal]
 permalink: /9/virundhombal/
 athigaram: "9"
+absno: "009"
 athigaram-en: Virundhombal
 title-en: Cherishing Guests
 redirect_from:
   - /9/
+description: Read Virundhombal from arathupaal, illaraviyal titled Cherishing Guests விருந்தோம்பல்
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
@@ -44,7 +46,7 @@ redirect_from:
 {% endfor %}
 
 <br>
-<details>
+<details class = "trans">
 <summary id="transliteration"> transliteration</summary>
 
 {%- for kl in site.data.kural -%}

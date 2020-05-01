@@ -5,10 +5,12 @@ date:   2020-04-27 10:40:35 +0530
 categories: [arathupaal, illaraviyal]
 permalink: /12/naduvu-nilami/
 athigaram: "12"
+absno: "012"
 athigaram-en: Naduvu Nilamai
 title-en: Impartiality
 redirect_from:
   - /12/
+description: Read Naduvu Nilamai from arathupaal, illaraviyal titled Impartiality நடுவு நிலைமை
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
@@ -44,7 +46,7 @@ redirect_from:
 {% endfor %}
 
 <br>
-<details>
+<details class = "trans">
 <summary id="transliteration"> transliteration</summary>
 
 {%- for kl in site.data.kural -%}

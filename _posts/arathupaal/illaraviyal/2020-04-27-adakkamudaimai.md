@@ -5,11 +5,14 @@ date:   2020-04-27 12:40:35 +0530
 categories: [arathupaal, illaraviyal]
 permalink: /13/adakkamudaimai/
 athigaram: "13"
+absno: "013"
 athigaram-en: Adakkamudaimai
 title-en: The Possession of Self-restraint
 redirect_from:
   - /13/
+description: Read Adakkamudaimai from arathupaal, illaraviyal titled The Possession of Self-restraint அடக்கமுடைமை
 ---
+
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
 
@@ -44,7 +47,7 @@ redirect_from:
 {% endfor %}
 
 <br>
-<details>
+<details class = "trans">
 <summary id="transliteration"> transliteration</summary>
 
 {%- for kl in site.data.kural -%}

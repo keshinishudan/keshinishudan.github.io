@@ -5,10 +5,12 @@ date:   2020-04-22 07:30:35 +0530
 categories: [arathupaal, illaraviyal]
 permalink: /6/puthalvaraip-peruthal/
 athigaram: "6"
+absno: "006"
 athigaram-en: Puthalvaraip Peruthal
 title-en: The Obtaining of Sons
 redirect_from:
   - /6/
+description: Read Puthalvaraip Peruthal from arathupaal, illaraviyal titled The Obtaining of Sons புதல்வரைப் பெறுதல்
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
@@ -44,7 +46,7 @@ redirect_from:
 {% endfor %}
 
 <br>
-<details>
+<details class = "trans">
 <summary id="transliteration"> transliteration</summary>
 
 {%- for kl in site.data.kural -%}

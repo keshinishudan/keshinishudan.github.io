@@ -5,10 +5,12 @@ date:   2020-04-23 08:40:35 +0530
 categories: [arathupaal, illaraviyal]
 permalink: /10/iniyavai-kooral/
 athigaram: "10"
+absno: "010"
 athigaram-en: Iniyavai Kooral
 title-en: The Utterance of Pleasant Words
 redirect_from:
   - /10/
+description: Read Iniyavai Kooral from arathupaal, illaraviyal titled The Utterance of Pleasant Words இனியவைகூறல்
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
@@ -44,7 +46,7 @@ redirect_from:
 {% endfor %}
 
 <br>
-<details>
+<details class = "trans">
 <summary id="transliteration"> transliteration</summary>
 
 {%- for kl in site.data.kural -%}

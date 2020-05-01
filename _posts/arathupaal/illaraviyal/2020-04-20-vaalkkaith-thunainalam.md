@@ -5,11 +5,12 @@ date:   2020-04-20 07:37:35 +0530
 categories: [arathupaal, illaraviyal]
 permalink: /6/vaalkkaith-thunainalam/
 athigaram: "6"
+absno: "006"
 athigaram-en: vaalkkaith Thunainalam
 title-en: The Goodness of the Help to Domestic Life
 redirect_from:
   - /6/
-  - /6/45
+description: Read vaalkkaith Thunainalam from arathupaal, illaraviyal titled The Goodness of the Help to Domestic Life வாழ்க்கைத் துணைநலம்
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
@@ -45,7 +46,7 @@ redirect_from:
 {% endfor %}
 
 <br>
-<details>
+<details class = "trans">
 <summary id="transliteration"> transliteration</summary>
 
 {%- for kl in site.data.kural -%}
