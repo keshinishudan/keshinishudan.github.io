@@ -12,7 +12,7 @@ Independent project aimed at providing thirukkural with better readability, aest
 `no trackers, no ads` 
 
 Curated content from various reliable and open source books.
-This site uses a ***minimal design*** to sere a frill free online version of thirukkural
+This site uses a ***minimal design*** to serve a frill free online version of thirukkural
 
 **Sponsorship**
 

@@ -24,4 +24,12 @@ layout: thome
 {%- for post in work_items -%}
 |[**{{ post.athigaram}} &nbsp; {{ post.title }}**]({{post.url}})|
 |[*{{post.title-en}}*]({{post.url}})|
+{% endfor %}
+
+|**துறவறவியல் - Ascetic Virtue**|
+|---------------|
+{% assign work_items = site.categories.thuravaraviyal | sort: 'absno' -%}
+{%- for post in work_items -%}
+|[**{{ post.athigaram}} &nbsp; {{ post.title }}**]({{post.url}})|
+|[*{{post.title-en}}*]({{post.url}})|
 {% endfor -%}
