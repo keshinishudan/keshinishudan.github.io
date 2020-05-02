@@ -6,11 +6,9 @@ permalink: /about/
 
 **Welcome to thirukkural.io**
 
-Independent project aimed at providing thirukkural with better readability, aesthtics, navigation and availability.
-
-
 `no trackers, no ads` 
 
+Independent project aimed at providing thirukkural with better readability, aesthtics, navigation and availability.
 Curated content from various reliable and open source books.
 This site uses a ***minimal design*** to serve a frill free online version of thirukkural
 
