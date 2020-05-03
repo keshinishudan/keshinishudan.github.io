@@ -32,4 +32,15 @@ layout: thome
 {%- for post in work_items -%}
 |[**{{ post.athigaram}} &nbsp; {{ post.title }}**]({{post.url}})|
 |[*{{post.title-en}}*]({{post.url}})|
-{% endfor -%}
+{% endfor %}
+
+
+### **பொருட்பால் - Wealth**
+
+|**அரசியல் - Royalty** |
+|---------------|
+{% assign work_items = site.categories.arasiyal | sort: 'absno' -%}
+{%- for post in work_items -%}
+|[**{{ post.athigaram}} &nbsp; {{ post.title }}**]({{post.url}})|
+|[*{{post.title-en}}*]({{post.url}})|
+{% endfor %}
