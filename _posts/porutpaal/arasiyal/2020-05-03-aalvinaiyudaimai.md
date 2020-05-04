@@ -1,0 +1,60 @@
+---
+layout: kural
+title: "ஆள்வினையுடைமை"
+date: 2020-05-03 14:55:13 +0530
+categories: [porutpaal, arasiyal]
+permalink: /62/aalvinaiyudaimai/
+athigaram: "62"
+absno: "062"
+athigaram-en: Aalvinaiyudaimai
+title-en: Manly Effort
+redirect_from:
+  - /62/
+description: Read Aalvinaiyudaimai from porutpaal, arasiyal titled Manly Effort ஆள்வினையுடைமை
+---
+
+## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
+
+{% for kl in site.data.kural %}
+{% if kl.athigaram == page.athigaram %}
+
+###### {{kl.no}}
+
+<h4> {{kl.kural | lstrip | newline_to_br}} </h4> 
+ 
+> {{kl.pope | lstrip | newline_to_br }} 
+
+{{kl.moova}} 
+
+> {{kl.popemean}} 
+
+{% if kl.pa %}
+<details>
+  <summary > பரிமேலழகர் உரை </summary>
+      {{kl.pa | replace: "விளக்கம்", "<br><strong><em>  விளக்கம்: </em></strong><br>" }}
+</details>
+{% endif %}
+
+{% if kl.mk %}
+<details>
+  <summary > மணக்குடவர் உரை </summary>
+      {{kl.mk | replace:"(இ - ள்.)","<strong><em>(இதன் பொருள்)</em></strong>" | replace:"(எ - று)","<br><strong><em>(என்றவாறு)</em></strong>"}}
+</details>
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+<br>
+<details class = "trans">
+<summary id="transliteration"> transliteration</summary>
+
+{%- for kl in site.data.kural -%}
+{%- if page.athigaram == kl.athigaram -%} 
+
+<p>{{kl.number}} {{kl.transliteration | newline_to_br}}</p>
+
+{%- endif -%}
+{%- endfor -%}
+
+</details>
