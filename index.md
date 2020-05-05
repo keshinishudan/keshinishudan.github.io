@@ -52,3 +52,11 @@ layout: thome
 |[**{{ post.athigaram}} &nbsp; {{ post.title }}**]({{post.url}})|
 |[*{{post.title-en}}*]({{post.url}})|
 {% endfor %}
+
+|**அங்கவியல் - Angaviyal** |
+|---------------|
+{% assign work_items = site.categories.angaviyal | sort: 'absno' -%}
+{%- for post in work_items -%}
+|[**{{ post.athigaram}} &nbsp; {{ post.title }}**]({{post.url}})|
+|[*{{post.title-en}}*]({{post.url}})|
+{% endfor %}
