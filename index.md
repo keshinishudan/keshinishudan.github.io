@@ -44,3 +44,11 @@ layout: thome
 |[**{{ post.athigaram}} &nbsp; {{ post.title }}**]({{post.url}})|
 |[*{{post.title-en}}*]({{post.url}})|
 {% endfor %}
+
+|**அமைச்சியல் - Amaichiyal** |
+|---------------|
+{% assign work_items = site.categories.amaichiyal | sort: 'absno' -%}
+{%- for post in work_items -%}
+|[**{{ post.athigaram}} &nbsp; {{ post.title }}**]({{post.url}})|
+|[*{{post.title-en}}*]({{post.url}})|
+{% endfor %}
