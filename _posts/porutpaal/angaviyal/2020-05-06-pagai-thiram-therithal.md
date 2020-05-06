@@ -1,16 +1,16 @@
 ---
 layout: kural
-title: "கூடாநட்பு"
-date: 2020-05-05 22:05:40 +0530
+title: "பகைத்திறந்தெரிதல்"
+date: 2020-05-06 04:44:45 +0530
 categories: [porutpaal, angaviyal]
-permalink: /83/kooda-natpu/
-athigaram: "83"
-absno: "083"
-athigaram-en: Kooda Natpu
-title-en: Unreal Friendship
+permalink: /88/pagai-thiram-therithal/
+athigaram: "88"
+absno: "088"
+athigaram-en: Pagai Thiram Therithal
+title-en: Knowing the Quality of Hate
 redirect_from:
-  - /83/
-description: Read Kooda Natpu from porutpaal, angaviyal titled Unreal Friendship கூடாநட்பு
+  - /88/
+description: Read Pagai Thiram Therithal from porutpaal, angaviyal titled Knowing the Quality of Hate பகைத்திறந்தெரிதல்
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>

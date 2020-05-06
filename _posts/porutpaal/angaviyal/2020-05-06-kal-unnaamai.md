@@ -1,16 +1,16 @@
 ---
 layout: kural
-title: "கூடாநட்பு"
-date: 2020-05-05 22:05:40 +0530
+title: "கள்ளுண்ணாமை"
+date: 2020-05-06 08:05:05 +0530
 categories: [porutpaal, angaviyal]
-permalink: /83/kooda-natpu/
-athigaram: "83"
-absno: "083"
-athigaram-en: Kooda Natpu
-title-en: Unreal Friendship
+permalink: /93/kal-unnaamai/
+athigaram: "93"
+absno: "093"
+athigaram-en: Kal Unnaamai
+title-en: Not Drinking Palm-Wine
 redirect_from:
-  - /83/
-description: Read Kooda Natpu from porutpaal, angaviyal titled Unreal Friendship கூடாநட்பு
+  - /93/
+description: Read Kal Unnaamai from porutpaal, angaviyal titled Not Drinking Palm-Wine கள்ளுண்ணாமை
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>

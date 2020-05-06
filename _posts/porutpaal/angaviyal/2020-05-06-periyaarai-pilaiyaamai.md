@@ -1,16 +1,16 @@
 ---
 layout: kural
-title: "கூடாநட்பு"
-date: 2020-05-05 22:05:40 +0530
+title: "பெரியாரைப் பிழையாமை"
+date: 2020-05-06 06:30:41 +0530
 categories: [porutpaal, angaviyal]
-permalink: /83/kooda-natpu/
-athigaram: "83"
-absno: "083"
-athigaram-en: Kooda Natpu
-title-en: Unreal Friendship
+permalink: /90/periyaarai-pilaiyaamai/
+athigaram: "90"
+absno: "090"
+athigaram-en: Periyaarai Pilaiyaamai
+title-en: Not Offending the Great
 redirect_from:
-  - /83/
-description: Read Kooda Natpu from porutpaal, angaviyal titled Unreal Friendship கூடாநட்பு
+  - /90/
+description: Read Periyaarai Pilaiyaamai from porutpaal, angaviyal titled Not Offending the Great பெரியாரைப் பிழையாமை
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>

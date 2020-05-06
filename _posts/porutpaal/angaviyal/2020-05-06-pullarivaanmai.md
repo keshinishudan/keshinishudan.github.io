@@ -1,16 +1,16 @@
 ---
 layout: kural
-title: "கூடாநட்பு"
-date: 2020-05-05 22:05:40 +0530
+title: "புல்லறிவாண்மை"
+date: 2020-05-06 02:41:41 +0530
 categories: [porutpaal, angaviyal]
-permalink: /83/kooda-natpu/
-athigaram: "83"
-absno: "083"
-athigaram-en: Kooda Natpu
-title-en: Unreal Friendship
+permalink: /85/pullarivaanmai/
+athigaram: "85"
+absno: "085"
+athigaram-en: Pullarivaanmai
+title-en: Ignorance
 redirect_from:
-  - /83/
-description: Read Kooda Natpu from porutpaal, angaviyal titled Unreal Friendship கூடாநட்பு
+  - /85/
+description: Read Pullarivaanmai from porutpaal, angaviyal titled Ignorance புல்லறிவாண்மை
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>

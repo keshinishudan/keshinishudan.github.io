@@ -1,16 +1,16 @@
 ---
 layout: kural
-title: "கூடாநட்பு"
-date: 2020-05-05 22:05:40 +0530
+title: "பகைமாட்சி"
+date: 2020-05-06 04:40:45 +0530
 categories: [porutpaal, angaviyal]
-permalink: /83/kooda-natpu/
-athigaram: "83"
-absno: "083"
-athigaram-en: Kooda Natpu
-title-en: Unreal Friendship
+permalink: /87/pagaimaatchi/
+athigaram: "87"
+absno: "087"
+athigaram-en: Pagaimaatchi
+title-en: The Might of Hatred
 redirect_from:
-  - /83/
-description: Read Kooda Natpu from porutpaal, angaviyal titled Unreal Friendship கூடாநட்பு
+  - /87/
+description: Read Pagaimaatchi from porutpaal, angaviyal titled The Might of Hatred பகைமாட்சி
 ---
 
 ## {{page.title-en}} <sup><a href="#transliteration">{{page.athigaram}}</a></sup>
