@@ -15,7 +15,7 @@ This site uses a ***minimal design*** to serve a frill free online version of th
 **Sponsorship**
 
 Right now this project is funded from my pocket and does'nt incur much expenses apart from the labour overhead. However, the bandwidth costs are destined to catch up.
-If any orgaization or individual would like to sponsor, you can [contact here](/sponsor).
+If any orgaization or individual would like to sponsor, you can [contact here](/sponsor/).
 
 **Volunteer**
 
@@ -27,7 +27,7 @@ Thirukkural.io is volunteer friendly and you can ***contribute*** in whichever w
 - Help proof reading and data collection
 - Technical stuff always invited
 
-Register for volunteer here
+[Register for volunteer here](/volunteer/)
 
 **Thoughts and Suggestions**
 
