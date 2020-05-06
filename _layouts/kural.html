@@ -35,5 +35,26 @@ layout: tdefault
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
+  {% assign my_variable1 = page.athigaram  | minus: 1 | downcase %}
+  {% assign my_variable2 = page.athigaram  | plus: 1 | downcase %}
+  {% for post in site.posts %}
+  {% if post.athigaram == my_variable1 %}
+  <div class="post-nav">
+    <div>
+      {% if page.previous.url %}
+      <a href="{{ post.url | prepend: site.baseurl }}">&laquo;&nbsp;{{post.title}}<br>{{ post.title-en }}</a>
+      {% endif %}
+    </div>
+  {% endif %}
+  {% endfor %}
+  {% for post in site.posts %}
+  {% if post.athigaram == my_variable2 %}
+    <div class="post-nav-next">
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}&nbsp;&raquo;<br>{{ post.title-en }}</a>
+    </div>
+  </div>
+    {% endif %}
+  {% endfor %}
+
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
