@@ -45,7 +45,7 @@ layout: thome
 |[*{{post.title-en}}*]({{post.url}})|
 {% endfor %}
 
-|**அமைச்சியல் - Amaichiyal** |
+|**அமைச்சியல் - Ministers of state** |
 |---------------|
 {% assign work_items = site.categories.amaichiyal | sort: 'absno' -%}
 {%- for post in work_items -%}
@@ -53,7 +53,7 @@ layout: thome
 |[*{{post.title-en}}*]({{post.url}})|
 {% endfor %}
 
-|**அங்கவியல் - Angaviyal** |
+|**அங்கவியல் - The Essentials of a State** |
 |---------------|
 {% assign work_items = site.categories.angaviyal | sort: 'absno' -%}
 {%- for post in work_items -%}
