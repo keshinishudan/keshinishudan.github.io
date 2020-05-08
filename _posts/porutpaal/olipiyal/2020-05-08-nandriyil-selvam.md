@@ -5,7 +5,7 @@ date: 2020-05-08 08:29:44 +0530
 categories: [porutpaal, olipiyal]
 permalink: /101/nandriyil-selvam/
 athigaram: "101"
-absno: "0101"
+absno: "101"
 athigaram-en: Nandriyil Selvam
 title-en: Wealth without Benefaction
 redirect_from:

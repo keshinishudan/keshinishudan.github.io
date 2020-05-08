@@ -5,7 +5,7 @@ date: 2020-05-08 11:29:55 +0530
 categories: [porutpaal, olipiyal]
 permalink: /105/nalkuravu/
 athigaram: "105"
-absno: "0105"
+absno: "105"
 athigaram-en: Nalkuravu
 title-en: Poverty
 redirect_from:

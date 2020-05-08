@@ -5,7 +5,7 @@ date: 2020-05-08 09:09:05 +0530
 categories: [porutpaal, olipiyal]
 permalink: /102/naanudaimai/
 athigaram: "102"
-absno: "0102"
+absno: "102"
 athigaram-en: Naanudaimai
 title-en: Shame
 redirect_from:

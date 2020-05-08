@@ -5,7 +5,7 @@ date: 2020-05-08 08:02:09 +0530
 categories: [porutpaal, olipiyal]
 permalink: /100/panpudaimai/
 athigaram: "100"
-absno: "0100"
+absno: "100"
 athigaram-en: Panpudaimai
 title-en: Courtesy
 redirect_from:

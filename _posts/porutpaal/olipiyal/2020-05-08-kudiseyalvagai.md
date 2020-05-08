@@ -5,7 +5,7 @@ date: 2020-05-08 10:29:12 +0530
 categories: [porutpaal, olipiyal]
 permalink: /103/kudiseyalvagai/
 athigaram: "103"
-absno: "0103"
+absno: "103"
 athigaram-en: Kudiseyalvagai
 title-en: The Way of Maintaining the Family
 redirect_from:
