@@ -33,7 +33,7 @@ Thirukkural.io is volunteer friendly and you can ***contribute*** in whichever w
 
 Feel free to let me know your thought on this site, and its build.
 Your suggestions, comments and thoughts are much appreciated.
-Let me know here
+[Let me know here](/thoughts/)
 
 **Comments**
 

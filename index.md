@@ -60,3 +60,11 @@ layout: thome
 |[**{{ post.athigaram}} &nbsp; {{ post.title }}**]({{post.url}})|
 |[*{{post.title-en}}*]({{post.url}})|
 {% endfor %}
+
+|**ஒழிபியல் - Miscellaneous (Appendix)** |
+|---------------|
+{% assign work_items = site.categories.olipiyal | sort: 'absno' -%}
+{%- for post in work_items -%}
+|[**{{ post.athigaram}} &nbsp; {{ post.title }}**]({{post.url}})|
+|[*{{post.title-en}}*]({{post.url}})|
+{% endfor %}
