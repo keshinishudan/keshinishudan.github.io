@@ -38,3 +38,5 @@ Your suggestions, comments and thoughts are much appreciated.
 **Comments**
 
 I am working on adding comments to the site, but I never came across any third party providers who comply this site policy, viz no tracking and non intrusive. To help improve the site here, feel free to schedule a call here.
+
+[Have comments, just say it here](/comments/)
