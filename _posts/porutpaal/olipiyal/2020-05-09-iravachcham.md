@@ -5,7 +5,7 @@ date: 2020-05-09 12:43:33 +0530
 categories: [porutpaal, olipiyal]
 permalink: /107/iravachcham/
 athigaram: "107"
-absno: "0107"
+absno: "107"
 athigaram-en: Iravachcham
 title-en: The Dread of Mendicancy
 redirect_from:
