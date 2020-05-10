@@ -3,13 +3,14 @@ layout: kural
 title:  "ஒழுக்கமுடைமை"
 date:   2020-04-27 12:50:35 +0530
 categories: [arathupaal, illaraviyal]
-permalink: /14/ollukam-udaimai/
+permalink: /14/olukam-udaimai/
 athigaram: "14"
 absno: "014"
 athigaram-en: Olukkam Udaimai
 title-en: The Possession of Decorum
 redirect_from:
   - /14/
+  - /14/ollukam-udaimai/
 description: Read Olukkam Udaimai from arathupaal, illaraviyal titled The Possession of Decorum ஒழுக்கமுடைமை
 ---
 
