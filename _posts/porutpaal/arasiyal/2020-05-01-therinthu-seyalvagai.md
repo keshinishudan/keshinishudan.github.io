@@ -3,13 +3,14 @@ layout: kural
 title:  "தெரிந்துசெயல்வகை"
 date:   2020-05-01 21:52:04 +0530
 categories: [porutpaal, arasiyal]
-permalink: /47/thaerinthu-seyalvagai/
+permalink: /47/therinthu-seyalvagai/
 athigaram: "47"
 absno: "047"
-athigaram-en: Theinthu Seyalvagai
+athigaram-en: Therinthu Seyalvagai
 title-en: Acting after due Consideration
 redirect_from:
   - /47/
+  - /47/thaerinthu-seyalvagai/
 description: Read Theinthu Seyalvagai from porutpaal, arasiyal titled Acting after due Consideration தெரிந்துசெயல்வகை
 ---
 
