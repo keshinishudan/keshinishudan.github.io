@@ -78,3 +78,11 @@ layout: thome
 |[**{{ post.athigaram}} &nbsp; {{ post.title }}**]({{post.url}})|
 |[*{{post.title-en}}*]({{post.url}})|
 {% endfor %}
+
+|**கற்பியல் - The Post-marital love** |
+|---------------|
+{% assign work_items = site.categories.karpiyal | sort: 'absno' -%}
+{%- for post in work_items -%}
+|[**{{ post.athigaram}} &nbsp; {{ post.title }}**]({{post.url}})|
+|[*{{post.title-en}}*]({{post.url}})|
+{% endfor %}
