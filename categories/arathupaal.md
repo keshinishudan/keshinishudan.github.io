@@ -13,6 +13,7 @@ permalink: /arathupaal/
 [{{post.title-en}}]({{post.url}})
 
 {% endfor %}
+****
 
 #### Domestic Virtue
 
@@ -22,6 +23,7 @@ permalink: /arathupaal/
 [{{post.title-en}}]({{post.url}})
 
 {% endfor %}
+****
 
 #### Ascetic Virtue
 
