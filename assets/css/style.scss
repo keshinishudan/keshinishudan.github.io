@@ -49,10 +49,6 @@ blockquote {
     margin-top: 0em;
 }
 
-.post-content h6 {
-    font-size: 0.75rem;
-}
-
 .trans {
     background-color:#D9FFF9 ;
 }
@@ -76,4 +72,8 @@ table {
 }
 .post-nav-next {
     text-align: right;
+}
+
+.post-content h3 {
+    margin-top: unset;
 }
