@@ -3,10 +3,10 @@ layout: kural
 title: "நெஞ்சொடுகிளத்தல்"
 date: 2020-05-11 14:17:19 +0530
 categories: [inbathupaal, karpiyal]
-permalink: /125/nenjodu-kilathal/
+permalink: /125/nenjodu-kilaththal/
 athigaram: "125"
 absno: "125"
-athigaram-en: Nenjodu Kilathal
+athigaram-en: Nenjodu Kilaththal
 title-en: Soliloquy
 redirect_from:
   - /125/
