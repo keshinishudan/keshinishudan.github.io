@@ -40,10 +40,8 @@ layout: tdefault
   {%- for post in site.posts -%}
   {%- if post.athigaram == my_variable1 -%}
   <div class="post-nav">
-    <div>
-      {% if page.previous.url %}
+    <div> 
       <a href="{{ post.url | prepend: site.baseurl }}">&laquo;&nbsp;{{post.title}}<br>{{ post.title-en }}</a>
-      {% endif %}
     </div>
   {%- endif -%}
   {%- endfor -%}
