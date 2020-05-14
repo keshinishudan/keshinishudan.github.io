@@ -18,7 +18,7 @@ description: Read Kuripparithal from porutpaal, amaichiyal titled The Knowledge 
 {% for kl in site.data.kural %}
 {% if kl.athigaram == page.athigaram %}
 
-###### {{kl.no}}
+###### [{{kl.no}}](/kural/{{ kl.no | strip }})
 
 <h4> {{kl.kural | lstrip | newline_to_br}} </h4> 
  

@@ -18,7 +18,7 @@ description: Read Avai Anjaamai from porutpaal, amaichiyal titled Not to dread t
 {% for kl in site.data.kural %}
 {% if kl.athigaram == page.athigaram %}
 
-###### {{kl.no}}
+###### [{{kl.no}}](/kural/{{ kl.no | strip }})
 
 <h4> {{kl.kural | lstrip | newline_to_br}} </h4> 
  

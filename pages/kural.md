@@ -8,7 +8,7 @@ permalink: /kural/
 {% for kural in seetharam %}
 
 <a href="{{ kural.url }}">
-  {{ kural.title }} - {{ kural.kuralno }}
+  {{ kural.title }} 
 </a>
 
 {% endfor %}

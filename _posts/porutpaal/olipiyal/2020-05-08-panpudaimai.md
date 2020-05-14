@@ -18,7 +18,7 @@ description: Read Panpudaimai from porutpaal, olipiyal titled Courtesy பண்
 {% for kl in site.data.kural %}
 {% if kl.athigaram == page.athigaram %}
 
-###### {{kl.no}}
+###### [{{kl.no}}](/kural/{{ kl.no | strip }})
 
 <h4> {{kl.kural | lstrip | newline_to_br}} </h4> 
  
