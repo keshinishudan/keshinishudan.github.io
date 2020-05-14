@@ -59,3 +59,8 @@ plugins:
  - jekyll-seo-tag
  - jekyll-redirect-from
  - jekyll-sitemap
+
+collections:
+  kural:
+    output: true
+    permalink: /:collection/:name
