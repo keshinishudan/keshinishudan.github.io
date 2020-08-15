@@ -3,13 +3,14 @@ layout: kural
 title: "வினைசெயல்வகை"
 date: 2020-05-04 13:44:45 +0530
 categories: [porutpaal, amaichiyal]
-permalink: /68/vina-seyalvagai/
+permalink: /68/vinai-seyalvagai/
 athigaram: "68"
 absno: "068"
 athigaram-en: Vina Seyalvagai
 title-en: The Method of Acting
 redirect_from:
   - /68/
+  - /68/vina-seyalvagai/
 description: Read Vina Seyalvagai from porutpaal, amaichiyal titled The Method of Acting வினைசெயல்வகை
 ---
 
