@@ -3,13 +3,14 @@ layout: kural
 title:  "நடுவு நிலைமை"
 date:   2020-04-27 10:40:35 +0530
 categories: [arathupaal, illaraviyal]
-permalink: /12/naduvu-nilami/
+permalink: /12/naduvu-nilaimai/
 athigaram: "12"
 absno: "012"
 athigaram-en: Naduvu Nilamai
 title-en: Impartiality
 redirect_from:
   - /12/
+  - /12/naduvu-nilami/
 description: Read Naduvu Nilamai from arathupaal, illaraviyal titled Impartiality நடுவு நிலைமை
 ---
 
