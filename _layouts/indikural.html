@@ -29,6 +29,75 @@ layout: tdefault
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+
+    <p><strong>குறள் {{ page.kuralno }}</strong></p>
+
+    {%- for post in site.posts -%}
+    {%- if post.athigaram == page.athino  -%}
+    <p><strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong></p>
+    {%- endif -%}
+    {%- endfor -%}
+
+
+    {%- for kl in site.data.kural -%}
+    {%- if kl.no == page.kuralno -%}
+
+
+    <p><strong>{{kl.kural | newline_to_br}}</strong></p>
+
+    <p><em>{{ kl.transliteration | newline_to_br }}</em></p>
+
+    <hr>
+
+    <p><strong>Shuddhananda Bharati</strong></p>
+
+    {%- for post in site.posts -%}
+    {%- if post.athigaram == page.athino -%}
+    <p><a href="{{ post.url | prepend: site.baseurl }}">{{kl.sbhead}}</a></p>
+    {%- endif -%}
+    {%- endfor -%}
+
+
+    <p>{{kl.sb | newline_to_br }}</p>
+
+    <hr>
+
+    <p><strong>GU Pope</strong></p>
+
+    {%- for post in site.posts -%}
+    {%- if post.athigaram == page.athino -%}
+    <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title-en }}</a></p>
+    {%- endif -%}
+    {%- endfor -%}
+
+
+    <p>{{ kl.pope | newline_to_br }}</p>
+
+    <p>{{ kl.popemean | newline_to_br }}</p>
+
+    <hr>
+
+    <p><strong>Mu. Varadarajan</strong></p>
+
+    <p>{{ kl.moova | newline_to_br }}</p>
+
+    <hr>
+
+    <p><strong>Parimelalagar</strong></p>
+
+    <p>{{kl.pa | replace: "விளக்கம்", "<br><strong><em>  விளக்கம்: </em></strong><br>" }}</p>
+
+    <hr>
+
+    <p><strong>Manakkudavar</strong></p>
+
+    <p>{{kl.mk | replace:"(இ - ள்.)","<strong><em>(இதன் பொருள்)</em></strong>" | replace:"(எ - று)","<br><strong><em>(என்றவாறு)</em></strong>"}}</p>
+
+
+
+    {%- endif -%}
+    {%- endfor -%}
+
   </div>
 
   {%- if site.disqus.shortname -%}
