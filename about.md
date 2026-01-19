@@ -16,6 +16,8 @@ This site uses a ***minimal design*** to serve a frill free online version of th
 
 Right now this project is funded from my pocket and does'nt incur much expenses apart from the labour overhead. However, the bandwidth costs are destined to catch up.
 If any orgaization or individual would like to sponsor, you can [contact here](/sponsor/).
+If you’d like to leave a tip, you can do so on my [donation page](https://buymeacoffee.com/keshinishudan).
+
 
 **Volunteer**
 
