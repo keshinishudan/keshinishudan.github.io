@@ -47,6 +47,14 @@ layout: tdefault
 
     <p><em>{{ kl.transliteration | newline_to_br }}</em></p>
 
+    {%- if kl.sa != "" and kl.sa != nil -%}
+    <hr>
+
+    <p><strong>Sri Aurobindo</strong></p>
+
+    <p>{{ kl.sa | newline_to_br }}</p>
+    {%- endif -%}
+
     <hr>
 
     <p><strong>Shuddhananda Bharati</strong></p>
