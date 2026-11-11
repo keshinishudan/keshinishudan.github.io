@@ -4,7 +4,11 @@ title: Sponsor
 permalink: /sponsor/
 ---
 
-[Thirukkural.io](https:thirukkural.io) was brought about to make a **clean** version of thirukkural available online. 
+**Current sponsor**
+
+{% include gob-card.html medium="sponsor-page" %}
+
+[Thirukkural.io](https://thirukkural.io) was brought about to make a **clean** version of thirukkural available online. 
 
 In case you would ilke to leave a tip here is my donate page [https://buymeacoffee.com/keshinishudan](https://buymeacoffee.com/keshinishudan)
 
