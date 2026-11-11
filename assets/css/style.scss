@@ -79,33 +79,50 @@ table {
 }
 
 /* Garden of Being sponsor placements */
-.gob-footer {
+.gob-strip {
     display: flex;
     align-items: center;
     gap: 12px;
-    padding-bottom: 18px;
+    padding: 10px 12px;
     margin-bottom: 18px;
-    border-bottom: 1px solid #e8e8e8;
+    border: 1px solid #eadfd6;
+    border-radius: 10px;
+    background: #fbf7f3;
 }
-.gob-footer img {
-    width: 44px;
-    height: 44px;
-    border-radius: 8px;
+.gob-strip img {
+    width: 40px;
+    height: 60px;
+    border-radius: 4px;
+    display: block;
+}
+.gob-strip a:first-child {
     flex: none;
 }
-.gob-footer p {
+.gob-strip p {
     margin: 0;
     font-size: 14px;
-    color: #828282;
+    line-height: 1.4;
+    color: #555;
 }
-.gob-footer a {
-    color: #828282;
-    text-decoration: underline;
+.gob-strip strong {
+    color: #222;
 }
-.gob-footer a.gob-name {
-    color: #111;
+.gob-strip .gob-label {
+    font-size: 11px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: #a08070;
+}
+.gob-strip p a {
+    color: #8a4a3a;
     font-weight: 600;
-    text-decoration: none;
+}
+.gob-strip .gob-note {
+    color: #828282;
+}
+/* One mention per page: hide the footer strip where the card is shown */
+body:has(.gob-card) .gob-strip {
+    display: none;
 }
 .gob-card {
     display: flex;
