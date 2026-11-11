@@ -12,7 +12,7 @@ permalink: /about/
 
 **How it began**
 
-In 2021, before AI could do it in an afternoon, this site was made by hand. The books were found, every line typed or copied, every kural checked against its source. The data alone took six months.
+In 2020, before AI could do it in an afternoon, this site was made by hand. The books were found, every line typed or copied, every kural checked against its source. The data alone took six months.
 
 It was made in a middle-income home, by someone who could have taken a professional job or a life abroad, and chose to stay. Alongside [dt.madurai.io](https://dt.madurai.io) and other Tamil work, it was done for one simple reason: Tamil is life, and it deserves to be read well.
 
