@@ -1,10 +1,8 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
-gemspec
 
-gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
+# Use the exact gem versions GitHub Pages builds the live site with,
+# so local builds and previews match thirukkural.io.
+gem "github-pages", group: :jekyll_plugins
 
-gem 'jekyll-redirect-from'
-
-gem 'jekyll-sitemap'
+# Needed by `jekyll serve` on Ruby 3+.
+gem "webrick"
