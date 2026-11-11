@@ -4,41 +4,28 @@ title: About
 permalink: /about/
 ---
 
-**Welcome to thirukkural.io**
+**thirukkural.io** is all 1,330 kurals, with trusted commentaries and translations. No trackers, no ads. Just the kural.
 
-`no trackers, no ads` 
+[Leave a tip](https://buymeacoffee.com/keshinishudan) · [Sponsor](/sponsor/) · [Volunteer](/volunteer/) · [Write to me](/thoughts/)
 
-Independent project aimed at providing thirukkural with better readability, aesthtics, navigation and availability.
-Curated content from various reliable and open source books.
-This site uses a ***minimal design*** to serve a frill free online version of thirukkural
+---
 
-**Sponsorship**
+**How it began**
 
-Right now this project is funded from my pocket and does'nt incur much expenses apart from the labour overhead. However, the bandwidth costs are destined to catch up.
-If any orgaization or individual would like to sponsor, you can [contact here](/sponsor/).
-If you’d like to leave a tip, you can do so on my [donation page](https://buymeacoffee.com/keshinishudan).
+In 2021, before AI could do it in an afternoon, this site was made by hand. The books were found, every line typed or copied, every kural checked against its source. The data alone took six months.
 
+It was made in a middle-income home, by someone who could have taken a professional job or a life abroad, and chose to stay. Alongside [dt.madurai.io](https://dt.madurai.io) and other Tamil work, it was done for one simple reason: Tamil is life, and it deserves to be read well.
 
-**Volunteer**
+**Today**
 
-Thirukkural.io is volunteer friendly and you can ***contribute*** in whichever ways possible
+New Thirukkural sites and AI tools appear all the time, and that is a good thing. Valluvar belongs to everyone, and the more doors lead to him, the better. If a little of the care from early work like this travels with them, better still.
 
-- Contribute by writng guest posts 
-- Help Translate to various languages 
-- Help collect openly available translations 
-- Help proof reading and data collection
-- Technical stuff always invited
+Meanwhile, this quiet site keeps its door open. In the last 16 months, more than 238,000 people found their way here from Google to read a kural.
 
-[Register for volunteer here](/volunteer/)
+**Tomorrow**
 
-**Thoughts and Suggestions**
+The dreams for Tamil are bigger than one person's means, for now. If you would like to see them grow, come along: [leave a tip](https://buymeacoffee.com/keshinishudan), [sponsor](/sponsor/), [volunteer](/volunteer/), or just [say hello](/thoughts/).
 
-Feel free to let me know your thought on this site, and its build.
-Your suggestions, comments and thoughts are much appreciated.
-[Let me know here](/thoughts/)
+This site is supported by [Garden of Being](https://gardenofbe.ing/), a hand-drawn garden game for PC, made by the same hands.
 
-**Comments**
-
-I am working on adding comments to the site, but I never came across any third party providers who comply this site policy, viz no tracking and non intrusive. To help improve the site here, feel free to schedule a call here.
-
-[Have comments, just say it here](/comments/)
+நன்றி.
